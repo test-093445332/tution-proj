@@ -1,0 +1,5 @@
+.learning/*.db
+.learning/*.db-*
+__pycache__/
+.learning/pending-attempt.json
+.learning/*-attempt.json
